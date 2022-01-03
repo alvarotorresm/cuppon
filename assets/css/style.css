@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.logo{
+  width: 7rem;
+}
+
+.home{
+  font-weight: bold;
+}
+
+.precio-1{
+  text-align: right;
+  font-size: 1rem;
+}
+
+.precio-2{
+  font-weight: 500;
+  font-size: 1.3rem;
+}
+
+.formulario-color{
+  background-color: #28A745;
+}
+
+.card-p{
+  font-size: 1em;
+  color:#707070;
+  font-weight: 300;
+}
+
+.card-u{
+font-size: 0.8em;
+  color:#707070;
+  font-weight: 300;
+}
+
+.boton{
+  width: 7rem;
+  font-weight: bold;
+}
+
+.logo-black{
+  width: 7rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.texto-footer{
+  font-size: 1.1em;
+  text-align: center;
+  font-weight: 300;
+  color: #707070;
+}
+
+.card-title{
+  font-weight: 300;
+  color: #212529;
+}
+
+.formulario-bloque{
+  display: block;
+}
